@@ -30,4 +30,4 @@
 Для скачивания моих dot-files вы можете использовать следующую команду:
 
 ```bash
-git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
+git clone https://github.com/yahshield/yahshield-dots.git
